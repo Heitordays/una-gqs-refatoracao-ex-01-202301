@@ -19,6 +19,6 @@ class Programa {
 
     validacao.calcularValidacaoFinal(erroTentativass);
 
-    // scanner.close();
+     scanner.close();
   }
 }
